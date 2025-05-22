@@ -1,0 +1,13 @@
+streamlit
+supabase
+requests
+google-generativeai
+python-docx
+python-multipart
+google-auth
+google-auth-oauthlib
+pandas
+plotly
+python-dotenv
+uuid
+fpdf
